@@ -1,4 +1,4 @@
-key = "AIzaSyBkwhH8GJXkJDKoymDq9u_x_m-7XKE94QY"
+key = "your key"
 
 import time
 import google.generativeai as genai
